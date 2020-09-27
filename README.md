@@ -1,2 +1,3 @@
 # SwiftDownloadDemo
 Swift使用Alamofire下载文件
+后续逐步完善功能
